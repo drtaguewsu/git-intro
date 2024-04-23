@@ -1,0 +1,3 @@
+This is another file, file2.txt. It works just like file1.txt. 
+
+Just like all source code, this is just text. Git will be watching these files for changes and create snapshot of each change.

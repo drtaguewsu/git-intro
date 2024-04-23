@@ -1,0 +1,5 @@
+This file holds text relating to the first file. 
+
+Editing of this file is quite simple, as it is just text!
+
+However, how do week keep track of changes with Git?
